@@ -9,3 +9,7 @@ Se ha detallado el proyecto en el documento "Contexto Wiki.pdf"
 Se ha detallado el código en el documento "Formula_1.pynb"
 
 El fichero de datos obtenido de realizar el webscraping es el "Formula_1_historical_results.csv".
+
+Los datos tambien se han depositado en zenodo, con el DOI 10.5281/zenodo.4262827
+
+Url de acceso: https://zenodo.org/record/4262827
